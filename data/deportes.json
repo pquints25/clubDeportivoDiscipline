@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nombre": "eukonkanto",
+    "precio": 10000
+  },
+  {
+    "id": 2,
+    "nombre": "kabaddi",
+    "precio": 5000
+  },
+  {
+    "id": 3,
+    "nombre": "cesta punta",
+    "precio": 8000
+  },
+  {
+    "id": 4,
+    "nombre": "curling",
+    "precio": 15000
+  },
+  {
+    "id": 5,
+    "nombre": "quidditch",
+    "precio": 20000
+  }
+]
